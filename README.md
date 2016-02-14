@@ -39,7 +39,12 @@ Modules &amp; resources related to the virtual-dom module.
 
 ### Articles
 
+- [What is Virtual DOM?](http://jbi.sh/what-is-virtual-dom/)
+- [We Don't Need No Stinkin' Frameworks: Writing Web Apps with Bacon.js and virtual-dom](http://blog.javascripting.com/2015/03/11/we-dont-need-no-stinkin-frameworks/)
+
 ### Talks
+
+- [Pocket-sized JS](https://www.youtube.com/watch?v=okk0BGV9oY0)
 
 ## License
 

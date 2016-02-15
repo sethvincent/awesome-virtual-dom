@@ -27,6 +27,14 @@ Modules &amp; resources related to the virtual-dom module.
 - [vdom-to-html](https://www.npmjs.com/package/vdom-to-html)
 - [to-virtual-dom](https://www.npmjs.com/package/to-virtual-dom)
 
+### Components
+
+- [virtual-sidebar](https://github.com/yoshuawuyts/virtual-sidebar)
+- [virtual-streamgraph](https://github.com/yoshuawuyts/virtual-streamgraph)
+- [virtual-markdown](https://github.com/yoshuawuyts/virtual-markdown)
+- [zip-input](https://github.com/bendrucker/zip-input)
+- [sheet-router](https://github.com/yoshuawuyts/sheet-router)
+
 ### Frameworks / libraries that depend on virtual-dom
 
 - [cycle.js](https://github.com/cyclejs)

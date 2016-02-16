@@ -62,7 +62,7 @@ Modules &amp; resources related to the virtual-dom module.
 
 
 
-## Alternate Virtual Dom implementations
+## Alternate Virtual DOM implementations
 
 `virtual-dom` isn't the only module for diffing, patching, and creating elements. Here are some other projects that implement the Virtual DOM approach:
 

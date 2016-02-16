@@ -21,6 +21,10 @@ Modules &amp; resources related to the virtual-dom module.
 
 - [virtual-widget](https://github.com/yoshuawuyts/virtual-widget)
 
+### Building virtual-hyperscript
+
+- [hyperx](https://github.com/substack/hyperx) – tagged template string virtual dom builder
+
 ### Converting to and from virtual-dom
 
 - [vdom-parser](https://www.npmjs.com/package/vdom-parser)
@@ -33,7 +37,9 @@ Modules &amp; resources related to the virtual-dom module.
 - [virtual-app](http://github.com/sethvincent/virtual-app)
 - [mercury](https://github.com/Raynos/mercury)
 
-
+## Build tools
+- [hyperxify](https://github.com/substack/hyperxify) – browserify transform for hyperx
+- [jsx-virtual-hyperscript-loader](https://www.npmjs.com/package/jsx-virtual-hyperscript-loader) – Webpack loader transpiling jsx into virtual-hyperscript javascript, using jsx-transform
 
 ## Resources
 
@@ -45,6 +51,17 @@ Modules &amp; resources related to the virtual-dom module.
 ### Talks
 
 - [Pocket-sized JS](https://www.youtube.com/watch?v=okk0BGV9oY0)
+
+
+
+## Alternate Virtual Dom implementations
+
+`virtual-dom` isn't the only module for diffing, patching, and creating elements. Here are some other projects that implement the Virtual DOM approach:
+
+- [React](https://github.com/facebook/react)
+- [Preact](https://github.com/developit/preact)
+- [Deku](https://github.com/dekujs/deku)
+- [Snabbdom](https://github.com/paldepind/snabbdom)
 
 ## License
 

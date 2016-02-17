@@ -34,11 +34,13 @@ Modules &amp; resources related to the virtual-dom module.
 
 ### Components
 
+- [sheet-router](https://github.com/yoshuawuyts/sheet-router)
+- [virtual-loading-dots](https://github.com/chinedufn/virtual-loading-dots)
+- [virtual-markdown](https://github.com/yoshuawuyts/virtual-markdown)
+- [virtual-progress-bar](https://github.com/chinedufn/virtual-progress-bar)
 - [virtual-sidebar](https://github.com/yoshuawuyts/virtual-sidebar)
 - [virtual-streamgraph](https://github.com/yoshuawuyts/virtual-streamgraph)
-- [virtual-markdown](https://github.com/yoshuawuyts/virtual-markdown)
 - [zip-input](https://github.com/bendrucker/zip-input)
-- [sheet-router](https://github.com/yoshuawuyts/sheet-router)
 
 ### Frameworks / libraries that depend on virtual-dom
 

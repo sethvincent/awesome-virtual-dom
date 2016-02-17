@@ -5,21 +5,22 @@ Modules &amp; resources related to the virtual-dom module.
 
 ## Modules
 
-- [virtual-dom](https://www.npmjs.com/package/virtual-dom)
+- [virtual-dom](https://www.npmjs.com/package/virtual-dom) – A JavaScript DOM model supporting element creation, diff computation and patch operations for efficient re-rendering
 
 ### Loops
 
-- [virtual-raf](https://www.npmjs.com/package/virtual-raf)
-- [main-loop](https://www.npmjs.com/package/main-loop)
+- [virtual-raf](https://www.npmjs.com/package/virtual-raf) – Create a requestAnimationFrame loop for virtual-dom
+- [main-loop](https://www.npmjs.com/package/main-loop) – A rendering loop for diffable UIs
 
 ### Hooks
 
-- [virtual-hook](https://github.com/yoshuawuyts/virtual-hook)
-- [virtual-hyperscript-hook](https://www.npmjs.com/package/virtual-hyperscript-hook)
+- [virtual-hook](https://github.com/yoshuawuyts/virtual-hook) – virtual-dom hook constructor. Allows access to the constructed DOM Node, property names and values
+- [virtual-hyperscript-hook](https://www.npmjs.com/package/virtual-hyperscript-hook) – Instead of adding hook/unhook lifecycle events on a per-property basis with a hook instance, this package lets you define simple `hook` and `unhook` properties as ordinary functions
+- [virtual-hyperscript-mount](https://github.com/substack/virtual-hyperscript-mount) – Register mount/unmount lifecycle hooks for virtual-dom
 
 ### Widgets
 
-- [virtual-widget](https://github.com/yoshuawuyts/virtual-widget)
+- [virtual-widget](https://github.com/yoshuawuyts/virtual-widget) – Create a virtual-dom widget
 
 ### Building virtual-hyperscript
 

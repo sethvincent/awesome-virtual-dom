@@ -41,6 +41,8 @@ Modules &amp; resources related to the virtual-dom module.
 - [virtual-sidebar](https://github.com/yoshuawuyts/virtual-sidebar)
 - [virtual-streamgraph](https://github.com/yoshuawuyts/virtual-streamgraph)
 - [zip-input](https://github.com/bendrucker/zip-input)
+- [virtual-webtorrent](https://github.com/yoshuawuyts/virtual-webtorrent) -
+  Webtorrent video element for virtual-dom
 
 ### Frameworks / libraries that depend on virtual-dom
 
